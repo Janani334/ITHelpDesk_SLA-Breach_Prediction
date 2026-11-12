@@ -169,7 +169,7 @@ These filters help explore specific ticket categories and understand SLA perform
 
 The following image shows the interactive Excel dashboard developed for the Balanced Scenario analysis.
 
-![IT Help Desk SLA Breach Prediction Dashboard](Dashboard/Screenshot%202026-11-12%20175940.png)
+![IT Help Desk SLA Breach Prediction Dashboard](../Dashboard/SLA_Dashboard.png)
 
 
 ## Key Insights
